@@ -1,6 +1,18 @@
+body{
+    background-color: chocolate;
+}
+
 h1{
     font-family: 'Courier New', Courier, monospace;
     margin: auto;
     padding: auto;
+    text-align: center;
+}
+
+input {
+    text-align: center;
+}
+
+div{
     text-align: center;
 }
